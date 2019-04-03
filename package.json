@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ThanhHieu0195/express-api/issues"
   },
-  "homepage": "https://github.com/ThanhHieu0195/express-api#readme"
+  "homepage": "https://github.com/ThanhHieu0195/express-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
